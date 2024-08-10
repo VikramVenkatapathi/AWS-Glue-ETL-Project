@@ -7,7 +7,7 @@ The pipeline automates data ingestion, transformation, and storage, improving da
 
 ## Architecture
 
-![Architecture Diagram](link-to-your-diagram)
+![Architecture Diagram](https://github.com/VikramVenkatapathi/AWS-Glue-ETL-Project/blob/main/Arch%20diagram/arch-diag.png)
 
 ## Setup Instructions
 
