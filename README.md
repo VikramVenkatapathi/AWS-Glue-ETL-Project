@@ -18,7 +18,7 @@ The pipeline automates data ingestion, transformation, and storage, improving da
 
 ## Sample Output Pictures from the Console
 
-![Console Images](https://github.com/VikramVenkatapathi/AWS-Glue-ETL-Project/Console%20Images)
+![Console Images](https://github.com/VikramVenkatapathi/AWS-Glue-ETL-Project/tree/main/Console%20Images)
 
 ### Source
 <img src="https://github.com/user-attachments/assets/f3bdbcd7-7385-4950-a0e2-55121f3d2f68" alt="YT_ICON" width="25" height="25"/> [AWS Glue Tutorial for Beginners [FULL COURSE in 45 mins]](https://www.youtube.com/watch?v=dQnRP6X8QAU) by Johnny Chivers
