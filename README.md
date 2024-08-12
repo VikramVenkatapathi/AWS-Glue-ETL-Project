@@ -1,4 +1,4 @@
-# AWS Glue ETL Project
+# AWS Glue - ETL Pipeline for Data Transformation
 
 ## Project Summary
 
