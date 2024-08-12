@@ -14,6 +14,7 @@ The pipeline automates data ingestion, transformation, and storage, improving da
 - Engineered an ETL pipeline using AWS Glue, transforming customer CSV data into Parquet format in Amazon S3, which enhanced data retrieval speed by 50%.
 - Orchestrated the AWS Glue Data Catalog, organizing data into databases and tables to improve data accessibility and governance across the organization.
 - Automated data ingestion and processing by developing AWS Glue Crawlers and Triggers, reducing manual intervention by 80% and ensuring real-time data updates.
+- Implemented monitoring and alerting with AWS EventBridge and SNS, which provided immediate notifications for job failures and improved incident response.
 - Configured IAM roles with appropriate permissions to ensure secure access and operation of AWS Glue services, maintaining compliance with security policies.
 ### Prerequisites
 
