@@ -5,7 +5,7 @@
 This project demonstrates an ETL pipeline using AWS Glue to transform customer data from CSV format to Parquet format, stored in Amazon S3. 
 The pipeline automates data ingestion, transformation, and storage, improving data retrieval speed and efficiency.
 
-## Architecture
+## Architecture Diagram
 
 ![Architecture Diagram](https://github.com/VikramVenkatapathi/AWS-Glue-ETL-Project/blob/main/Arch%20diagram/aws-glue%20(1).jpg)
 
