@@ -7,7 +7,7 @@ The pipeline automates data ingestion, transformation, and storage, improving da
 
 ## Architecture
 
-![Architecture Diagram](https://github.com/VikramVenkatapathi/AWS-Glue-ETL-Project/blob/main/Arch%20diagram/arch%20diag%20-%20v2.png)
+![Architecture Diagram](https://github.com/VikramVenkatapathi/AWS-Glue-ETL-Project/blob/main/Arch%20diagram/aws-glue%20(1).jpg)
 
 ## Project Description
 
