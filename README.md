@@ -29,3 +29,5 @@ Additionally, Amazon EventBridge and Amazon SNS were integrated to establish a m
 ### Source
 <img src="https://github.com/user-attachments/assets/f3bdbcd7-7385-4950-a0e2-55121f3d2f68" alt="YT_ICON" width="25" height="25"/> [AWS Glue Tutorial for Beginners [FULL COURSE in 45 mins]](https://www.youtube.com/watch?v=dQnRP6X8QAU) by Johnny Chivers
 
+<img src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="MEDIUM_BLOG_ICON" width="25" height="25"/> [Simplifying AWS Glue Job Failure Notifications with SNS: A Step-by-Step Guide](https://jainsaket-1994.medium.com/simplifying-aws-glue-job-failure-notifications-with-sns-a-step-by-step-guide-e2c801c4a2dd) by Saket Jain
+
